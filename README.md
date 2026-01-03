@@ -8,7 +8,7 @@ This project demonstrates how a neural network can learn the dynamics of a simpl
 
 Check out the trained neural network predicting pendulum motion:
 
-<video src="NN_pendulum_video.mp4" controls width="600">
+<video src="NN_pendulum_video.mp4">
     Your browser does not support the video tag.
 </video>
 
