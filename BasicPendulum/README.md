@@ -107,15 +107,3 @@ The script will:
 | `NNBasedSimulation.py` | Load model, generate predictions, animate pendulum                        |
 | `README.md`            | Project overview and instructions                                         |
 
----
-
-### Last Commits
-
-| File                   | Last Commit Message         | Date          |
-| ---------------------- | --------------------------- | ------------- |
-| `ExactODE.py`          | Create ExactODE.py          | 1 minute ago  |
-| `NNBasedSimulation.py` | Create NNBasedSimulation.py | 1 minute ago  |
-| `NNTraining.py`        | Create NNTraining.py        | 1 minute ago  |
-| `README.md`            | Initial commit              | 2 minutes ago |
-
----
